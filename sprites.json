@@ -1,0 +1,232 @@
+{
+    "Paste Family": [
+        "Paste",
+        "Green Paste",
+        "Bubble Paste",
+        "Fire Paste",
+        "Lightning Paste",
+        "Ice Paste"
+    ],
+    "Goblin Family": [
+        "Goblin",
+        "(Rare) Goblin",
+        "Hobgoblin",
+        "(Rare) Hobgoblin",
+        "Goblin King"
+    ],
+    "Orc Family": [
+        "Orc",
+        "Red Orc",
+        "Orc Captain",
+        "Blue Orc"
+    ],
+    "Kobold Family": [
+        "Kobold",
+        "Kobold Captain",
+        "Kobold Lord",
+        "Kobold Bomber"
+    ],
+    "Bat Family": [
+        "Giant Bat",
+        "Sea Bat",
+        "Thunder Bat",
+        "Vampire Bat",
+        "Cave Bat"
+    ],
+    "Skeleton Family": [
+        "Skeleton",
+        "(Rare) Skeleton",
+        "Skeleton Mage",
+        "Dark Skeleton",
+        "Skeleton Archer",
+        "Ice Shooter",
+        "Evil Sniper"
+    ],
+    "Mummy Family": [
+        "Mummy",
+        "Poison Mummy",
+        "Living Dead"
+    ],
+    "Mage Family": [
+        "Dark Mage",
+        "Arch Mage",
+        "Demon Master",
+        "Evil Druid"
+    ],
+    "Gizmo Family": [
+        "Gizmo",
+        "Dark Smoke",
+        "Evil Cloud",
+        "Mist Demon",
+        "Volcanic Ash"
+    ],
+    "Rat Family": [
+        "Giant Rat",
+        "Gray Rat",
+        "Vermin"
+    ],
+    "Spider Family": [
+        "Spider",
+        "Giant Tick",
+        "Ice Spider",
+        "Tarantula"
+    ],
+    "Fairy Family": [
+        "Fairy",
+        "Noble Fairy",
+        "Chaos Fairy"
+    ],
+    "Unicorn Family": [
+        "Unicorn",
+        "Fire Mare",
+        "Unicorn Elder"
+    ],
+    "Doll Family": [
+        "Doll",
+        "Puppet",
+        "Dark Puppet"
+    ],
+    "Hobbit Family": [
+        "Hobbit",
+        "Hobbit Soldier",
+        "Hobbit Leader",
+        "Hobbit Marksman",
+        "Hobbit Sniper",
+        "Hobbit Ace"
+    ],
+    "Ghost Family": [
+        "Ghost",
+        "Phantom",
+        "Wraith"
+    ],
+    "Viking Family": [
+        "Viking",
+        "Viking Lord",
+        "Viking Leader"
+    ],
+    "Eyeball Family": [
+        "Watcher",
+        "Bloodshot Eye",
+        "Forest Eye",
+        "Evil Eye"
+    ],
+    "Archer Family": [
+        "Death Archer",
+        "Dark Sniper",
+        "Bow Master",
+        "Chaos Archer"
+    ],
+    "Worm Family": [
+        "Worm",
+        "Evil Worm",
+        "Purple Worm",
+        "Lava Worm"
+    ],
+    "Scorpion Family": [
+        "Scorpion",
+        "King Scorpion",
+        "Death Scorpion"
+    ],
+    "Harpy Family": [
+        "Harpy",
+        "Harpy Queen",
+        "Poison Harpy"
+    ],
+    "Toadstool Family": [
+        "Toadstool",
+        "Matango",
+        "Myconid"
+    ],
+    "Humanoid Family": [
+        "Yeti",
+        "Bigfoot",
+        "Mad Ape"
+    ],
+    "Minotaur Family": [
+        "Minotaur",
+        "Death Minotaur",
+        "Dark Minotaur"
+    ],
+    "(Will o' the) Wisp Family": [
+        "Wisp",
+        "Snow Elemental",
+        "Wicked Flame",
+        "Dark Spirit"
+    ],
+    "Knight Family": [
+        "Rune Knight",
+        "Silver Knight",
+        "Dark Knight"
+    ],
+    "Gargoyle Family": [
+        "Gargoyle",
+        "Ice Gargoyle",
+        "Belial"
+    ],
+    "Colossus Family": [
+        "Colossus",
+        "Colossus II",
+        "Colossus III"
+    ],
+    "Demon Family": [
+        "Lesser Demon",
+        "Demon",
+        "Arch Demon"
+    ],
+    "Cerberus Family": [
+        "Cerberus",
+        "Hell Hound",
+        "Poison Hound"
+    ],
+    "Golem Family": [
+        "Golem",
+        "Ice Golem",
+        "Mudman"
+    ],
+    "Lizard Family": [
+        "Snow Lizard",
+        "Salamander",
+        "Vampire Lizard"
+    ],
+    "Dragon Family": [
+        "Dragon",
+        "White Dragon",
+        "Soul Dragon"
+    ],
+    "Angel Family": [
+        "Angel",
+        "Seraph",
+        "Archangel"
+    ],
+    "Vampire Family": [
+        "Vampire",
+        "Blood Fiend",
+        "Vampire Lord"
+    ],
+    "Mortal-Enemy Family": [
+        "Reaper",
+        "Specter",
+        "Envoy of Death"
+    ],
+    "Giant Family": [
+        "Holy Giant",
+        "Blue Giant",
+        "Titan"
+    ],
+    "Automaton Family": [
+        "Flaming Eye",
+        "Frigid Eye",
+        "Dark Eye"
+    ],
+    "Fan-created Family": [
+        "Sunmoon",
+        "Kitten Champ",
+        "Muga"
+    ],
+    "Master Family": [
+        "Captain Gully",
+        "Giant",
+        "Haunted Armor",
+        "Yeti King"
+    ]
+}
