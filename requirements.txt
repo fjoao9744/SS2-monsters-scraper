@@ -1,6 +1,5 @@
+playwright
 requests
-beautifulsoup4
-lxml
 pillow
 boto3
 python-dotenv
